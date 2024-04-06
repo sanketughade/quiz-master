@@ -19,7 +19,7 @@ function Header() {
       </div>
       <div className="vertical-flex-container score">
         <p>Score</p>
-        <p className="bold-font">0</p>
+        <p className="score-text">0</p>
       </div>
     </div>
   );
